@@ -17,4 +17,8 @@ C:\Users\ __yourUserName__ \AppData\Roaming\Sublime Text 3\Packages\User
 
 ### 2) [Using ST3 efficiently](https://www.youtube.com/watch?v=utLIfDpGKsY)
 
-### 3) 
+### 3) Troubleshooting Jekyll install on Windows
+~~~~
+SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed
+~~~~
+Does ^ look familiar? Then you need [this](https://gist.github.com/luislavena/f064211759ee0f806c88)
